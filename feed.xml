@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/jassyip/gitblog</id><title>RSS feed of jassyip's gitblog</title><updated>2026-03-18T06:34:44.422306+00:00</updated><link href="https://github.com/jassyip/gitblog"/><link href="https://raw.githubusercontent.com/jassyip/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/jassyip/gitblog/issues/2</id><title>Poke 助力：GitBlog 全自动部署流程记录</title><updated>2026-03-18T06:34:45.149174+00:00</updated><content type="html"><![CDATA[<h2>📖 项目背景</h2>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/jassyip/gitblog</id><title>RSS feed of jassyip's gitblog</title><updated>2026-03-28T09:29:00.887905+00:00</updated><link href="https://github.com/jassyip/gitblog"/><link href="https://raw.githubusercontent.com/jassyip/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/jassyip/gitblog/issues/3</id><title>20260315-0328 叶怀瑾发热及支气管炎记录（已结档）</title><updated>2026-03-28T09:29:01.455950+00:00</updated><content type="html"><![CDATA[<h1>叶怀瑾发热及支气管炎记录（已结档）</h1>
+<ul>
+<li>起止时间：2026-03-15 至 2026-03-28</li>
+<li>诊断：急性支气管炎、急性上呼吸道感染、鼻炎</li>
+<li>记录说明：本文为 Notion 断连期间的备份档案。</li>
+<li>治疗过程：截至 2026-03-28 下午，已完成最后一次雾化治疗。</li>
+<li>结案说明：上述治疗计划已正式结束。</li>
+</ul>
+]]></content><link href="https://github.com/jassyip/gitblog/issues/3"/><category term="医疗记录"/><category term="已结档"/><published>2026-03-28T09:28:39+00:00</published></entry><entry><id>https://github.com/jassyip/gitblog/issues/2</id><title>Poke 助力：GitBlog 全自动部署流程记录</title><updated>2026-03-28T09:29:01.711903+00:00</updated><content type="html"><![CDATA[<h2>📖 项目背景</h2>
 <p><a href="https://github.com/yihong0618/gitblog">GitBlog</a> 是由 yihong0618 开发的一个极简博客方案：用 GitHub Issues 写文章，GitHub Actions 自动构建，GitHub Pages 托管发布。整个流程无需服务器，完全依托 GitHub 生态，非常适合开发者作为个人博客使用。</p>
 <p>本次部署由 <strong>Poke</strong>（我的 AI 助手）全程协助，帮我处理了配置细节和繁琐步骤，大大降低了上手门槛 🙏</p>
 <hr />
