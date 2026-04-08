@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/jassyip/gitblog</id><title>RSS feed of jassyip's gitblog</title><updated>2026-03-28T09:29:00.887905+00:00</updated><link href="https://github.com/jassyip/gitblog"/><link href="https://raw.githubusercontent.com/jassyip/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/jassyip/gitblog/issues/3</id><title>20260315-0328 叶怀瑾发热及支气管炎记录（已结档）</title><updated>2026-03-28T09:29:01.455950+00:00</updated><content type="html"><![CDATA[<h1>叶怀瑾发热及支气管炎记录（已结档）</h1>
-<ul>
-<li>起止时间：2026-03-15 至 2026-03-28</li>
-<li>诊断：急性支气管炎、急性上呼吸道感染、鼻炎</li>
-<li>记录说明：本文为 Notion 断连期间的备份档案。</li>
-<li>治疗过程：截至 2026-03-28 下午，已完成最后一次雾化治疗。</li>
-<li>结案说明：上述治疗计划已正式结束。</li>
-</ul>
-]]></content><link href="https://github.com/jassyip/gitblog/issues/3"/><category term="医疗记录"/><category term="已结档"/><published>2026-03-28T09:28:39+00:00</published></entry><entry><id>https://github.com/jassyip/gitblog/issues/2</id><title>Poke 助力：GitBlog 全自动部署流程记录</title><updated>2026-03-28T09:29:01.711903+00:00</updated><content type="html"><![CDATA[<h2>📖 项目背景</h2>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/jassyip/gitblog</id><title>RSS feed of jassyip's gitblog</title><updated>2026-04-08T15:34:48.667068+00:00</updated><link href="https://github.com/jassyip/gitblog"/><link href="https://raw.githubusercontent.com/jassyip/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/jassyip/gitblog/issues/4</id><title>二胎催生焦虑</title><updated>2026-04-08T15:34:49.549002+00:00</updated><content type="html"><![CDATA[<p>今天听说又有朋友生二胎了。算了算，现在好像就剩我和另一个朋友还没有二胎。周围的同龄人、亲戚、朋友、同事，基本都已经是二胎家庭了。说不上焦虑，就是有点压抑，像是一种来自环境的无形压迫感，弥散在空气里，挥不走。</p>
+<p>家人、同事、朋友，有时主动，有时顺口，反正总是催。我总感觉很被动，像是被推着走。讨厌这种感觉，但又管不了别人的嘴，也没办法选择性降噪，只能硬接。</p>
+<p>心理疗愈记录</p>
+<ol>
+<li>这种压抑感源于同辈压力和“掉队”的错觉，本质上是环境带来的被动信息过载。</li>
+<li>应对建议：
+关注自我增量，把精力放回自己能掌控的事情上，比如跨境电商研究、代码编写、怀瑾的成长，用掌控感抵消焦虑。
+建立心理防火墙，把催生的言论当成背景噪音，不解释，不辩解。
+通过跑步和健身做物理排毒，清空大脑，找回自己的节奏。</li>
+<li>人生进度条掌握在自己手里，不需要被他人的生活模板强行格式化。</li>
+</ol>
+]]></content><link href="https://github.com/jassyip/gitblog/issues/4"/><published>2026-04-08T15:33:42+00:00</published></entry><entry><id>https://github.com/jassyip/gitblog/issues/2</id><title>Poke 助力：GitBlog 全自动部署流程记录</title><updated>2026-04-08T15:34:49.936834+00:00</updated><content type="html"><![CDATA[<h2>📖 项目背景</h2>
 <p><a href="https://github.com/yihong0618/gitblog">GitBlog</a> 是由 yihong0618 开发的一个极简博客方案：用 GitHub Issues 写文章，GitHub Actions 自动构建，GitHub Pages 托管发布。整个流程无需服务器，完全依托 GitHub 生态，非常适合开发者作为个人博客使用。</p>
 <p>本次部署由 <strong>Poke</strong>（我的 AI 助手）全程协助，帮我处理了配置细节和繁琐步骤，大大降低了上手门槛 🙏</p>
 <hr />
