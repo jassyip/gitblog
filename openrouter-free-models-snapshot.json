@@ -1,8 +1,20 @@
 [
   {
+    "id": "google/gemma-4-26b-a4b-it:free",
+    "name": "Google: Gemma 4 26B A4B (free)",
+    "created": 1775227989,
+    "expiration_date": null
+  },
+  {
     "id": "google/lyria-3-pro-preview-20260330",
     "name": "Google: Lyria 3 Pro Preview",
     "created": 1774911472,
+    "expiration_date": null
+  },
+  {
+    "id": "baidu/ernie-4.5-300b-a47b",
+    "name": "Baidu: ERNIE 4.5 300B A47B",
+    "created": 1751300139,
     "expiration_date": null
   },
   {
@@ -21,6 +33,30 @@
     "id": "liquid/lfm-2.5-1.2b-instruct:free",
     "name": "LiquidAI: LFM2.5-1.2B-Instruct (free)",
     "created": 1768927521,
+    "expiration_date": null
+  },
+  {
+    "id": "openai/gpt-oss-20b:free",
+    "name": "OpenAI: gpt-oss-20b (free)",
+    "created": 1754414229,
+    "expiration_date": null
+  },
+  {
+    "id": "qwen/qwen3-coder:free",
+    "name": "Qwen: Qwen3 Coder 480B A35B (free)",
+    "created": 1753230546,
+    "expiration_date": null
+  },
+  {
+    "id": "google/gemma-3-4b-it:free",
+    "name": "Google: Gemma 3 4B (free)",
+    "created": 1741905510,
+    "expiration_date": null
+  },
+  {
+    "id": "google/gemma-3-27b-it:free",
+    "name": "Google: Gemma 3 27B (free)",
+    "created": 1741756359,
     "expiration_date": null
   },
   {
