@@ -1,5 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/jassyip/gitblog</id><title>RSS feed of jassyip's gitblog</title><updated>2026-04-08T15:34:48.667068+00:00</updated><link href="https://github.com/jassyip/gitblog"/><link href="https://raw.githubusercontent.com/jassyip/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/jassyip/gitblog/issues/4</id><title>二胎催生焦虑</title><updated>2026-04-08T15:34:49.549002+00:00</updated><content type="html"><![CDATA[<p>今天听说又有朋友生二胎了。算了算，现在好像就剩我和另一个朋友还没有二胎。周围的同龄人、亲戚、朋友、同事，基本都已经是二胎家庭了。说不上焦虑，就是有点压抑，像是一种来自环境的无形压迫感，弥散在空气里，挥不走。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/jassyip/gitblog</id><title>RSS feed of jassyip's gitblog</title><updated>2026-05-12T13:49:54.070040+00:00</updated><link href="https://github.com/jassyip/gitblog"/><link href="https://raw.githubusercontent.com/jassyip/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/jassyip/gitblog/issues/5</id><title>20260512 见字如面</title><updated>2026-05-12T13:49:55.203224+00:00</updated><content type="html"><![CDATA[<p>读父辈往来的书信时，才真正懂得“见字如面”四字的分量。
+那个车马邮件都慢的年代，一纸信笺，便足以翻越千里关山。
+而如今，消息瞬息可达，联络从未如此方便，人却比从前更容易不安。
+我们盯着“正在输入”，等一句迟迟未到的回复；
+看着满格信号，却越来越难确认，自己是否真正被惦念着。
+或许最远的距离，从来不是山海阻隔，
+而是在这个什么都能立刻抵达的时代，再也难寻一份“落笔即安心”的笃定。</p>
+]]></content><link href="https://github.com/jassyip/gitblog/issues/5"/><published>2026-05-12T13:49:24+00:00</published></entry><entry><id>https://github.com/jassyip/gitblog/issues/4</id><title>二胎催生焦虑</title><updated>2026-05-12T13:49:55.742783+00:00</updated><content type="html"><![CDATA[<p>今天听说又有朋友生二胎了。算了算，现在好像就剩我和另一个朋友还没有二胎。周围的同龄人、亲戚、朋友、同事，基本都已经是二胎家庭了。说不上焦虑，就是有点压抑，像是一种来自环境的无形压迫感，弥散在空气里，挥不走。</p>
 <p>家人、同事、朋友，有时主动，有时顺口，反正总是催。我总感觉很被动，像是被推着走。讨厌这种感觉，但又管不了别人的嘴，也没办法选择性降噪，只能硬接。</p>
 <p>心理疗愈记录</p>
 <ol>
@@ -10,7 +17,7 @@
 通过跑步和健身做物理排毒，清空大脑，找回自己的节奏。</li>
 <li>人生进度条掌握在自己手里，不需要被他人的生活模板强行格式化。</li>
 </ol>
-]]></content><link href="https://github.com/jassyip/gitblog/issues/4"/><published>2026-04-08T15:33:42+00:00</published></entry><entry><id>https://github.com/jassyip/gitblog/issues/2</id><title>Poke 助力：GitBlog 全自动部署流程记录</title><updated>2026-04-08T15:34:49.936834+00:00</updated><content type="html"><![CDATA[<h2>📖 项目背景</h2>
+]]></content><link href="https://github.com/jassyip/gitblog/issues/4"/><published>2026-04-08T15:33:42+00:00</published></entry><entry><id>https://github.com/jassyip/gitblog/issues/2</id><title>Poke 助力：GitBlog 全自动部署流程记录</title><updated>2026-05-12T13:49:56.264237+00:00</updated><content type="html"><![CDATA[<h2>📖 项目背景</h2>
 <p><a href="https://github.com/yihong0618/gitblog">GitBlog</a> 是由 yihong0618 开发的一个极简博客方案：用 GitHub Issues 写文章，GitHub Actions 自动构建，GitHub Pages 托管发布。整个流程无需服务器，完全依托 GitHub 生态，非常适合开发者作为个人博客使用。</p>
 <p>本次部署由 <strong>Poke</strong>（我的 AI 助手）全程协助，帮我处理了配置细节和繁琐步骤，大大降低了上手门槛 🙏</p>
 <hr />
